@@ -1,5 +1,0 @@
-pipelines:
-  default:
-    - step:
-        script:
-          - git push --mirror git@github.com:s6ap/repoTest.git
